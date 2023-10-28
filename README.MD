@@ -29,7 +29,7 @@ This is the main repository directory where you can find information about diffe
 Each design pattern is available in a separate branch. Below is a list of available patterns along with links to their corresponding branches:
 
 - [Builder](https://github.com/pitbroo/design-patterns/tree/builder)
-- [Pattern 2](link-to-branch-2)
+- [Factory](https://github.com/pitbroo/design-patterns/tree/factory)
 - [Pattern 3](link-to-branch-3)
 - ...
 
