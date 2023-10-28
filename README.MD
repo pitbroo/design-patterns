@@ -1,10 +1,10 @@
 # Wzorce Projektowe
 
 ## Wprowadzenie
-To jest główny katalog repozytorium projektu, w którym znajdziesz informacje o różnych wzorcach projektowych zaimplementowanych w gałęziach (branches) tego projektu.
+To jest główny katalog repozytorium projektu, w którym znajdziesz informacje o różnych wzorcach projektowych zaimplementowanych w gałęziach tego projektu.
 
 ## Wzorce Projektowe
-Każdy wzorzec projektowy jest dostępny w oddzielnej gałęzi (branch). Poniżej znajdziesz listę dostępnych wzorców wraz z linkami do odpowiadających im gałęzi:
+Każdy wzorzec projektowy jest dostępny w oddzielnej gałęzi . Poniżej znajdziesz listę dostępnych wzorców wraz z linkami do odpowiadających im gałęzi:
 
 - [Builder](https://github.com/pitbroo/design-patterns/tree/builder)
 - [Factory](https://github.com/pitbroo/design-patterns/tree/factory)
