@@ -7,8 +7,8 @@ To jest główny katalog repozytorium projektu, w którym znajdziesz informacje 
 Każdy wzorzec projektowy jest dostępny w oddzielnej gałęzi (branch). Poniżej znajdziesz listę dostępnych wzorców wraz z linkami do odpowiadających im gałęzi:
 
 - [Builder](https://github.com/pitbroo/design-patterns/tree/builder)
-- [Wzorzec 2](link-do-gałęzi-2)
-- [Wzorzec 3](link-do-gałęzi-3)
+- [Factory](https://github.com/pitbroo/design-patterns/tree/factory)
+- [Singleton](https://github.com/pitbroo/design-patterns/tree/singleton)
 - ...
 
 ## Instrukcje
@@ -30,7 +30,7 @@ Each design pattern is available in a separate branch. Below is a list of availa
 
 - [Builder](https://github.com/pitbroo/design-patterns/tree/builder)
 - [Factory](https://github.com/pitbroo/design-patterns/tree/factory)
-- [Pattern 3](link-to-branch-3)
+- [Singleton](https://github.com/pitbroo/design-patterns/tree/singleton)
 - ...
 
 ## Instructions
