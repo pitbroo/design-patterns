@@ -9,7 +9,7 @@ Każdy wzorzec projektowy jest dostępny w oddzielnej gałęzi . Poniżej znajdz
 - [Builder](https://github.com/pitbroo/design-patterns/tree/builder)
 - [Factory](https://github.com/pitbroo/design-patterns/tree/factory)
 - [Singleton](https://github.com/pitbroo/design-patterns/tree/singleton)
-- ...
+- [Adapter](https://github.com/pitbroo/design-patterns/tree/adapter)
 
 ## Instrukcje
 Aby uzyskać dostęp do konkretnego wzorca projektowego, przejdź do odpowiedniej gałęzi (branch) korzystając z powyższych linków. Każda gałąź zawiera przykład implementacji danego wzorca w języku Java.
@@ -31,8 +31,8 @@ Each design pattern is available in a separate branch. Below is a list of availa
 - [Builder](https://github.com/pitbroo/design-patterns/tree/builder)
 - [Factory](https://github.com/pitbroo/design-patterns/tree/factory)
 - [Singleton](https://github.com/pitbroo/design-patterns/tree/singleton)
-- ...
-
+- [Adapter](https://github.com/pitbroo/design-patterns/tree/adapter)
+- 
 ## Instructions
 To access a specific design pattern, navigate to the respective branch using the links provided above. Each branch contains an example implementation of the given design pattern in Java.
 
